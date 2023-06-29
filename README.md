@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Web Developer**
 
-- 🌱 I’m currently learning **Umbraco**
+- 🌱 I’m currently learning **Umbraco** and **ASP.NET**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxsoncenxj&show_icons=true&locale=en&layout=compact" alt="jxsoncenxj" /></p>
